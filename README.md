@@ -42,4 +42,4 @@ The system uses **MySQL** for persistent storage. The following tables are used:
 ### Steps to Install:
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/dnyaneshwar910/LibraryManagementSystem.git
+   git clone https://github.com/sneha8767/LibraryManagementSystem.git
